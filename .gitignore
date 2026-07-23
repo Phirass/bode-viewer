@@ -1,0 +1,29 @@
+# Build-Verzeichnisse
+/build/
+/build-*/
+/out/
+/cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake.stamp
+
+# Qt / moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.autosave
+
+# IDE
+.vscode/
+.idea/
+*.user
+
+# Kompilate
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
