@@ -117,5 +117,5 @@ Der vollständige, kommentierte Quellcode befindet sich unter:
 
 `https://github.com/DEIN-BENUTZERNAME/bode-viewer`
 
-> **Hinweis:** `DEIN-BENUTZERNAME` nach dem Anlegen des Repositorys durch
+> **Hinweis:** `Phirass` nach dem Anlegen des Repositorys durch
 > den echten GitHub-Namen ersetzen – identisch auch im Abgabe-PDF (Abschnitt 7).
