@@ -115,7 +115,7 @@ QT_QPA_PLATFORM=offscreen ./build-test/BodeExportDemo
 
 Der vollständige, kommentierte Quellcode befindet sich unter:
 
-`https://github.com/DEIN-BENUTZERNAME/bode-viewer`
+`https://github.com/Phirass/bode-viewer`
 
 > **Hinweis:** `Phirass` nach dem Anlegen des Repositorys durch
 > den echten GitHub-Namen ersetzen – identisch auch im Abgabe-PDF (Abschnitt 7).
